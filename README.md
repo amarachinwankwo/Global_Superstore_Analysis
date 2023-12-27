@@ -41,6 +41,7 @@ Created an additional table for my country, city and state.
 Linked/created a relationship between the four (4) tables: the people table, return table, order table and country table.
 
 # DAX
+
 Created a Dax formula for:
 &#8226; Sum of sales
 
@@ -58,9 +59,9 @@ The total sales from 2011 - 2014 is 9 million, the total profit 1 million, from 
 
 |    |2011|2012|2013|2014|
 |----|----|----|----|----|
-|Sales,|2 million,|2 million,|3 million,|3 million|
-|Profit,|184k,|227k,|309k,|370k|
-|Country,|133,|129,|137,|138|
+|Sales|2 million|2 million|3 million|3 million|
+|Profit|184k|227k|309k|370k|
+|Country|133|129|137|138|
 
 From the table above we can deduce that the higher the country that Furniture, Office supplies and Technologies were sold the higher the sales and profit.
 
@@ -70,9 +71,9 @@ From the table above we can deduce that the higher the country that Furniture, O
 
 |    |2011|2012|2013|2014|
 |----|----|----|----|----|
-|Sales,|3 million,|2 million,|4 million|
-|Profit,|217k,|330k,|543k|
-|Country,|130,|140,|138|
+|Sales|3 million|2 million|4 million|
+|Profit|217k|330k|543k|
+|Country|130|140|138|
 
 From the above table we understand that Technology appliances had higher sales, profit.
 
