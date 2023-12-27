@@ -69,7 +69,7 @@ From the table above we can deduce that the higher the country that Furniture, O
 
 &#8226; The top 5 countries with the highest profit are the United States with 222k, China with 110k, India with 96k, United Kingdom with 85k  and Australia with 80k.
 
-|    |2011|2012|2013|2014|
+|    |Furniture|Office Supplies |Technology|
 |----|----|----|----|----|
 |Sales|3 million|2 million|4 million|
 |Profit|217k|330k|543k|
