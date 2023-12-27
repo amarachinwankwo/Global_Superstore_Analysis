@@ -16,23 +16,23 @@ https://docs.google.com/spreadsheets/d/1jHUmgAMFSxeZUBT4Kd0HDOXpxV3rFJOj/edit?us
 
      For the People table:
 
-&#826; Used first row as headers
+&#8226; Used first row as headers
 
-&#826; Removed nulls
+&#8226; Removed nulls
 
      For the Returns table:
 
-&#826; Used first row as headers
+&#8226; Used first row as headers
 
-&#826; Removed duplicates
+&#8226; Removed duplicates
 
-&#826; Deleted an empty column
+&#8226; Deleted an empty column
 
     For the Orders table:
 
-&#826; Deleted an empty column 
+&#8226; Deleted an empty column 
 
-&#826; Removed duplicates.
+&#8226; Removed duplicates.
 
 ### ADDITIONAL TABLE
 Created an additional table for my country, city and state.
@@ -42,15 +42,15 @@ Linked/created a relationship between the four (4) tables: the people table, ret
 
 # DAX
 Created a Dax formula for:
-&#826; Sum of sales
+&#8226; Sum of sales
 
-&#826; Sum of profit
+&#8226; Sum of profit
 
-&#826; Average Shipping
+&#8226; Average Shipping
 
-&#826; Average profit
+&#8226; Average profit
 
-&#826; Average discount
+&#8226; Average discount
 
 # INSIGHTS
 
@@ -58,5 +58,42 @@ The total sales from 2011 - 2014 is 9 million, the total profit 1 million, from 
 
 |    |2011|2012|2013|2014|
 |----|----|----|----|----|
-|Sales,|2 million,|2 million,|3 million,|3 million 
+|Sales,|2 million,|2 million,|3 million,|3 million|
+|Profit,|184k,|227k,|309k,|370k|
+|Country,|133,|129,|137,|138|
+
+From the table above we can deduce that the higher the country that Furniture, Office supplies and Technologies were sold the higher the sales and profit.
+
+&#8226; The top 5 countries with the highest sales are the United States with 2 million, Australia with 1 million, France with 1 million, Mexico with less than 1 million.
+
+&#8226; The top 5 countries with the highest profit are the United States with 222k, China with 110k, India with 96k, United Kingdom with 85k  and Australia with 80k.
+
+|    |2011|2012|2013|2014|
+|----|----|----|----|----|
+|Sales,|3 million,|2 million,|4 million|
+|Profit,|217k,|330k,|543k|
+|Country,|130,|140,|138|
+
+From the above table we understand that Technology appliances had higher sales, profit.
+
+&#8226; December made the highest sales and profit , for profit it made 1, 218,596 million and for sales 132, 462 thousand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
